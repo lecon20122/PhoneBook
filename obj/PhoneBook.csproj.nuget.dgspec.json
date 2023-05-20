@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\C#\\PhoneBook\\PhoneBook.csproj": {}
+    "h:\\C#\\PhoneBook\\PhoneBook.csproj": {}
   },
   "projects": {
-    "H:\\C#\\PhoneBook\\PhoneBook.csproj": {
+    "h:\\C#\\PhoneBook\\PhoneBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\C#\\PhoneBook\\PhoneBook.csproj",
+        "projectUniqueName": "h:\\C#\\PhoneBook\\PhoneBook.csproj",
         "projectName": "PhoneBook",
-        "projectPath": "H:\\C#\\PhoneBook\\PhoneBook.csproj",
+        "projectPath": "h:\\C#\\PhoneBook\\PhoneBook.csproj",
         "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "H:\\C#\\PhoneBook\\obj\\",
+        "outputPath": "h:\\C#\\PhoneBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
