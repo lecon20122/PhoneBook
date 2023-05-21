@@ -73,3 +73,4 @@ H:\C#\PhoneBook\obj\Debug\net7.0\refint\PhoneBook.dll
 H:\C#\PhoneBook\obj\Debug\net7.0\PhoneBook.pdb
 H:\C#\PhoneBook\obj\Debug\net7.0\PhoneBook.genruntimeconfig.cache
 H:\C#\PhoneBook\obj\Debug\net7.0\ref\PhoneBook.dll
+H:\C#\PhoneBook\bin\Debug\net7.0\package.json

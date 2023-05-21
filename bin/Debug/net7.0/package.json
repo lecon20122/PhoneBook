@@ -1,0 +1,11 @@
+{
+  "name": "PhoneBook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lecon20122/PhoneBook.git",
+  "author": "lecon20122 <lecon20122@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "css:build": "npx tailwindcss -i ./wwwroot/css/site.css -o ./wwwroot/css/styles.css --minify"
+  }
+}

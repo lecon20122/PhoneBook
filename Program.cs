@@ -1,9 +1,11 @@
 using Microsoft.EntityFrameworkCore;
+using PhoneBook.Core.Contacts;
 using PhoneBook.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddScoped<IContactRepository, ContactRepository>();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(
         builder.Configuration.GetConnectionString("DefaultConnection")
